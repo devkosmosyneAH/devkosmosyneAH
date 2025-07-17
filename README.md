@@ -81,12 +81,12 @@
 <p>
   En DevKosmosyne apostamos por un enfoque ágil, limpio y centrado en el usuario. Creemos en la mejora continua, la innovación tecnológica y el compromiso con la calidad. Nos encanta trabajar con startups, emprendedores y empresas que desean transformar su visión en un producto digital real.
 </p>
-<h3>👨‍🚀 Sobre el fundador</h3>
+<h3>👨‍🚀 Sobre los fundadores</h3>
 
 <h4>Hola, soy <strong>Anthony</strong></h4>
 
 <p>
-  Estudiante de Ingeniería en Sistemas y desarrollador Full Stack especializado en soluciones <strong>multiplataforma</strong>. Apasionado por crear aplicaciones útiles, intuitivas y eficientes, que impacten positivamente en la vida de las personas.
+  Ingeniero en Sistemas y desarrollador Full Stack especializado en soluciones <strong>multiplataforma</strong>. Apasionado por crear aplicaciones útiles, intuitivas y eficientes, que impacten positivamente en la vida de las personas.
 </p>
 
 <p>
@@ -99,12 +99,8 @@
   <li>Soluciones integradas para escritorio</li>
 </ul>
 
-<p>
-  Me estoy formando constantemente y aplico mis conocimientos en proyectos reales, tanto personales como profesionales.
-</p>
-
 <div align="center">
-  <h4>🌐 Conecta conmigo:</h4>
+  <h4>🌐 Conecta con Nosotros:</h4>
   <a href="https://www.linkedin.com/in/anthony-c-a12928111/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
