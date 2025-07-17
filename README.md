@@ -1,113 +1,118 @@
-<h2>Hey, hello! 
-  <img src="https://user-images.githubusercontent.com/70911022/183312043-095cc4b6-9fc5-4d34-9eb4-b21fa9de8e50.gif" width="30px" alt="👋">
-</h2>
-
-<h3>I'm <strong>Anthony</strong> 👨‍💻</h3>
-
+<h2>🚀 DevKosmosyne</h2>
 <p>
-  I'm a Systems Engineering student and a passionate <strong>multiplatform software developer</strong> focused on building solutions that run seamlessly across <strong>mobile, web, and desktop platforms</strong> using a single codebase.
+  En <strong>DevKosmosyne</strong> nos especializamos en el <strong>desarrollo de software multiplataforma</strong>, creando aplicaciones modernas, funcionales y escalables que pueden ejecutarse en cualquier dispositivo, desde <em>móviles</em> y <em>escritorios</em> hasta <em>web</em> e incluso entornos IoT.
+</p>
+<p>
+  Nuestro objetivo es <strong>convertir ideas en soluciones digitales reales</strong>, enfocándonos en diseño centrado en el usuario, código limpio y rendimiento óptimo.
+</p>
+<h3>🌍 ¿A qué nos dedicamos?</h3>
+<p>
+  Desarrollamos aplicaciones que funcionan en múltiples plataformas utilizando una sola base de código, lo que permite reducir costos, tiempo de desarrollo y asegurar una experiencia de usuario coherente en todos los dispositivos.
 </p>
 
-<p>
-  I specialize in designing, developing, and maintaining applications using cutting-edge technologies that support multiple operating systems, including:
-</p>
-
+<h4>📱 Plataformas que cubrimos:</h4>
 <ul>
-  <li>📱 Android & iOS</li>
-  <li>🖥️ Desktop (Windows, macOS, Linux)</li>
-  <li>🌐 Web browsers (including PWAs)</li>
-  <li>📺 Smart TVs / IoT environments</li>
+  <li>Android & iOS</li>
+  <li>Web (navegadores modernos)</li>
+  <li>Aplicaciones de Escritorio (Windows, macOS, Linux)</li>
+  <li>Aplicaciones Web Progresivas (PWA)</li>
+  <li>Smart TVs y dispositivos IoT</li>
 </ul>
-
-<p>
-  My preferred tools for cross-platform development include:
-</p>
-
+<h3>🔧 Tecnologías Multiplataforma</h3>
 <table>
   <thead>
     <tr>
-      <th>🧩 Framework</th>
-      <th>📝 Language</th>
-      <th>🚀 Platforms</th>
-      <th>🔧 Use case</th>
+      <th>Framework</th>
+      <th>Lenguaje</th>
+      <th>Plataformas</th>
+      <th>Uso Ideal</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong>Flutter</strong></td>
       <td>Dart</td>
-      <td>Android, iOS, Web, Desktop</td>
-      <td>UI-rich apps for any screen</td>
+      <td>Android, iOS, Web, Escritorio</td>
+      <td>Aplicaciones visualmente atractivas</td>
     </tr>
     <tr>
       <td><strong>React Native</strong></td>
       <td>JavaScript / TypeScript</td>
       <td>Android, iOS</td>
-      <td>Hybrid mobile apps</td>
+      <td>Apps móviles híbridas</td>
     </tr>
     <tr>
       <td><strong>Electron</strong></td>
-      <td>JS / HTML / CSS</td>
+      <td>HTML, CSS, JS</td>
       <td>Windows, macOS, Linux</td>
-      <td>Desktop apps</td>
+      <td>Aplicaciones de escritorio</td>
     </tr>
     <tr>
       <td><strong>Unity</strong></td>
       <td>C#</td>
-      <td>Mobile, WebGL, Consoles</td>
-      <td>Games, AR/VR, simulations</td>
-    </tr>
-    <tr>
-      <td><strong>Xamarin / MAUI</strong></td>
-      <td>C#</td>
-      <td>Android, iOS, Desktop</td>
-      <td>Enterprise-grade apps</td>
+      <td>Mobile, WebGL, Consolas</td>
+      <td>Videojuegos, simulaciones</td>
     </tr>
     <tr>
       <td><strong>Ionic + Capacitor</strong></td>
-      <td>JS / TypeScript</td>
+      <td>JS / TS</td>
       <td>Web, Android, iOS</td>
-      <td>Progressive Web Apps</td>
+      <td>PWAs y apps híbridas</td>
     </tr>
   </tbody>
 </table>
 
+<h4>🛠️ Entornos de desarrollo:</h4>
+<ul>
+  <li>Visual Studio Code</li>
+  <li>Android Studio</li>
+  <li>Visual Studio / MAUI</li>
+  <li>Unity Editor</li>
+</ul>
+
+<h4>🖥️ Backends usados:</h4>
+<ul>
+  <li>FastAPI / Django (Python)</li>
+  <li>Node.js (JavaScript)</li>
+  <li>Firebase / Supabase</li>
+</ul>
+
+<h3>🌟 Filosofía de desarrollo</h3>
 <p>
-  I code using powerful development environments such as:
+  En DevKosmosyne apostamos por un enfoque ágil, limpio y centrado en el usuario. Creemos en la mejora continua, la innovación tecnológica y el compromiso con la calidad. Nos encanta trabajar con startups, emprendedores y empresas que desean transformar su visión en un producto digital real.
+</p>
+<h3>👨‍🚀 Sobre el fundador</h3>
+
+<h4>Hola, soy <strong>Anthony</strong></h4>
+
+<p>
+  Estudiante de Ingeniería en Sistemas y desarrollador Full Stack especializado en soluciones <strong>multiplataforma</strong>. Apasionado por crear aplicaciones útiles, intuitivas y eficientes, que impacten positivamente en la vida de las personas.
 </p>
 
+<p>
+  Cuento con experiencia práctica desarrollando:
+</p>
 <ul>
-  <li>🧠 <strong>Visual Studio Code</strong>: for full-stack and cross-platform dev</li>
-  <li>📱 <strong>Android Studio</strong>: for mobile development and Flutter</li>
-  <li>💻 <strong>Visual Studio</strong>: for MAUI/Xamarin apps</li>
-  <li>🎮 <strong>Unity Editor</strong>: for game dev & interactive content</li>
+  <li>Aplicaciones móviles con Flutter</li>
+  <li>Apps web responsivas</li>
+  <li>Servicios backend con FastAPI y Firebase</li>
+  <li>Soluciones integradas para escritorio</li>
 </ul>
 
 <p>
-  On the backend side, I work with APIs and databases using:
+  Me estoy formando constantemente y aplico mis conocimientos en proyectos reales, tanto personales como profesionales.
 </p>
-
-<ul>
-  <li>⚙️ <strong>FastAPI</strong> & <strong>Django</strong> (Python): For rapid API development</li>
-  <li>🔄 <strong>Node.js</strong> (JavaScript): Lightweight and scalable</li>
-  <li>🔥 <strong>Firebase</strong>: Realtime database and auth</li>
-  <li>🧾 <strong>Supabase</strong>: Open-source backend for web/mobile</li>
-</ul>
-
-<p>
-  I'm currently expanding my skills, working on real-world projects, and building a professional portfolio. I love tackling new challenges and pushing boundaries in the tech world.
-</p>
-
----
 
 <div align="center">
-  <h4>🌐 Let's Connect:</h4>
-
+  <h4>🌐 Conecta conmigo:</h4>
   <a href="https://www.linkedin.com/in/anthony-c-a12928111/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-
   <a href="https://www.instagram.com/thony_cm_18/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
 </div>
+<h3>📬 ¿Tienes una idea o proyecto?</h3>
+<p>
+  ¡Hablemos! Estoy abierto a colaboraciones, freelance, o simplemente compartir ideas. Puedes escribirme por correo, redes sociales o a través del formulario de contacto.
+</p>
